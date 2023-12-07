@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Attendance,Goalkeeper,Ws_in_last_five,Ls_in_last_five,Ds_in_last_five,Points_from_last_5,Top Team Scorer(s),Top Scorer Total
+1,Arsenal,15,11,3,1,33,14,19,36,2.4,27.6,11.5,16.1,1.07,60147,David Raya,4,1,0,12,"Eddie Nketiah, Bukayo Saka",5
+2,Liverpool,15,10,4,1,34,14,20,34,2.27,30.9,18.0,12.9,0.86,50573,Alisson,3,0,2,11,Mohamed Salah,10
+3,Aston Villa,15,10,2,3,34,20,14,32,2.13,28.2,20.8,7.4,0.49,35467,Emiliano Martínez,3,1,1,10,Ollie Watkins,8
+4,Manchester City,15,9,3,3,36,17,19,30,2.0,29.0,14.4,14.6,0.97,45700,Ederson,1,1,3,6,Erling Haaland,14
+5,Tottenham,14,8,3,3,28,20,8,27,1.93,22.0,22.9,-0.9,-0.07,61718,Guglielmo Vicario,1,3,1,4,Son Heung-min,9
+6,Manchester Utd,15,9,0,6,18,18,0,27,1.8,24.3,25.1,-0.8,-0.05,73517,André Onana,4,1,0,12,Scott McTominay,5
+7,Newcastle Utd,14,8,2,4,32,14,18,26,1.86,28.1,14.2,13.9,0.99,52075,Nick Pope,3,1,1,10,"Callum Wilson, Alexander Isak",7
+8,Brighton,15,7,4,4,32,27,5,25,1.67,24.9,22.4,2.5,0.17,27661,Jason Steele,2,1,2,8,Evan Ferguson,6
+9,West Ham,14,6,3,5,24,24,0,21,1.5,19.6,24.4,-4.8,-0.34,62459,Alphonse Areola,2,2,1,7,Jarrod Bowen,8
+10,Chelsea,15,5,4,6,26,24,2,19,1.27,29.3,22.6,6.7,0.45,39748,Robert Sánchez,2,2,1,7,Nicolas Jackson,6
+11,Brentford,15,5,4,6,23,21,2,19,1.27,27.9,19.7,8.2,0.55,17053,Mark Flekken,2,3,0,6,Bryan Mbeumo,7
+12,Fulham,15,5,3,7,21,26,-5,18,1.2,19.0,25.7,-6.7,-0.45,24342,Bernd Leno,2,3,0,6,"Willian, Raúl Jiménez",3
+13,Wolves,15,5,3,7,20,25,-5,18,1.2,19.2,26.0,-6.8,-0.46,31297,José Sá,2,3,0,6,Hwang Hee-chan,8
+14,Crystal Palace,15,4,4,7,14,21,-7,16,1.07,17.5,20.4,-3.0,-0.2,21314,Sam Johnstone,1,3,1,4,Odsonne Édouard,6
+15,Bournemouth,15,4,4,7,18,30,-12,16,1.07,20.3,26.5,-6.1,-0.41,11018,Neto,3,1,1,10,Dominic Solanke,7
+16,Nott'ham Forest,15,3,4,8,16,27,-11,13,0.87,16.1,23.3,-7.3,-0.48,29268,Matt Turner,1,4,0,3,Taiwo Awoniyi,4
+17,Luton Town,15,2,3,10,16,30,-14,9,0.6,14.6,31.6,-17.1,-1.14,10859,Thomas Kaminski,1,3,1,4,"Carlton Morris, Elijah Adebayo",3
+18,Everton,14,5,2,7,15,20,-5,7,0.5,20.9,18.7,2.2,0.16,39150,Jordan Pickford,3,1,1,10,Abdoulaye Doucouré,4
+19,Burnley,15,2,1,12,15,33,-18,7,0.47,13.8,24.1,-10.3,-0.68,21567,James Trafford,1,4,0,3,"Josh Brownhill, Lyle Foster",3
+20,Sheffield Utd,15,1,2,12,11,41,-30,5,0.33,11.8,32.5,-20.7,-1.38,30924,Wes Foderingham,1,3,1,4,"Oliver McBurnie, Gustavo Hamer",2
